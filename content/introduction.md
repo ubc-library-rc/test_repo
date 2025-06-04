@@ -5,5 +5,3 @@ nav_order: 4
 ---
 # Introduction
 Placeholder for first page of lesson
-
-here are some chagnes 
